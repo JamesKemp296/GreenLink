@@ -37,3 +37,6 @@ class BillScrapeJob < ApplicationJob
   end
 
 end
+
+
+# Redis, selenium, watir, active job, action cable
